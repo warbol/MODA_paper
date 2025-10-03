@@ -1,3 +1,5 @@
+Data retrieved from the Integrated Postsecondary Education Data System (IPEDS) using the "Custom Data Files" feature. https://nces.ed.gov/ipeds 
+
 CSV_6222024-488_NUM_COMP_BIO.zip contains the number of degrees offered in “Biomathematics, Bioinformatics, and Computational Biology” — referred to as “bioinformatics” in paper
 
 CSV_6222024-950_NUM_COMPSCI.zip contains the numbers of degrees offered in “Computer and Information Sciences and Support Services” — referred to as “computer sciences” in paper
